@@ -1,11 +1,13 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase');
+
 
 .clear {
   clear: both;
 }
 
 hr {
-  slear:both;
+  clear:both;
 }
 
 .header{
@@ -48,4 +50,12 @@ hr {
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf
+}
+
+h1 {
+  font-family: 'Cormorant Unicaser', serif;
+}
+
+h2 {
+  font-family: 'Cormorant Unicase', serif;
 }
